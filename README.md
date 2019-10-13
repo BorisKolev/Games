@@ -10,7 +10,7 @@ Games:
                      You can also play this game with one more player.
 
 And finally there is an english dictionary that you can use which is giving
-you the all the meanings of every single word you can think of.
+you all the meanings of all english words.
 
 You run the program from the main file and play all games from it.
             
